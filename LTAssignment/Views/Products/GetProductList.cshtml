@@ -1,0 +1,203 @@
+﻿@* @model IEnumerable<LTAssignment.Models.Product.ProductMaster> *@
+@model List<LTAssignment.Models.Product.ProductMaster>
+@using System.Security.Claims
+
+
+@{
+    ViewData["Title"] = "ProductList";
+    var RoleType = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role)?.Value;
+    var UserName = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name)?.Value;
+    int serialNumber = 1;
+}
+
+<h1>Product List</h1> 
+<hr />
+
+@if (@RoleType == "admin")
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table" id="productList">
+        <thead>
+            <tr>
+                <th>
+
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Category 
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @serialNumber
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { item.ID }) |
+                        @Html.ActionLink("Details", "Details", new { item.ID }) |
+                        @Html.ActionLink("Delete", "Delete", new {  item.ID })
+                    </td>
+                </tr>
+                serialNumber++;
+            }
+        </tbody>
+    </table>
+} 
+else if (@RoleType == "seller")
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+
+    <table class="table" id="productList">
+        <thead>
+            <tr>
+                <th>
+
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Category 
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @serialNumber
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { item.ID }) |
+                        @Html.ActionLink("Details", "Details", new { item.ID }) |
+                        @Html.ActionLink("Delete", "Delete", new {  item.ID })
+                    </td>
+                </tr>
+                serialNumber++;
+            }
+        </tbody>
+    </table>
+}
+else if (@RoleType == "buyer")
+{
+    <table class="table" id="productList">
+        <thead>
+            <tr>
+                <th>
+
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Category 
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th></th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @serialNumber
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Details", "Details", new { item.ID }) 
+                    </td>
+                </tr>
+                serialNumber++;
+            }
+        </tbody>
+    </table>
+
+}
+
