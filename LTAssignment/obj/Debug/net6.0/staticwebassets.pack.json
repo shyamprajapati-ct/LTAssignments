@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LTAssignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LTAssignment.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\0a9ce8b9-6ca6-416e-ba97-ed7f5e3633c5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\0a9ce8b9-6ca6-416e-ba97-ed7f5e3633c5.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\1b4689b9-83ae-45c5-bed1-2bf161b2662b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\1b4689b9-83ae-45c5-bed1-2bf161b2662b.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\2d8054e8-5d88-4d17-95f4-4e1ec5db572b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2d8054e8-5d88-4d17-95f4-4e1ec5db572b.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\2f9ae51e-1483-496a-92ea-12a8750e6b4b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2f9ae51e-1483-496a-92ea-12a8750e6b4b.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\3311a368-a9d5-4941-bcbd-caf8b4460967.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3311a368-a9d5-4941-bcbd-caf8b4460967.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\3a848906-794f-4d16-bb0b-95f04ba05d95.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3a848906-794f-4d16-bb0b-95f04ba05d95.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\3daee179-bbbe-4458-a5c2-00abc99fbd89.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3daee179-bbbe-4458-a5c2-00abc99fbd89.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\44eb02b2-570f-4ae5-8733-94525592d382.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\44eb02b2-570f-4ae5-8733-94525592d382.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\4ab38996-6a19-43cb-8c2a-bbba29eaf905.png",
+      "PackagePath": "staticwebassets\\ProductImages\\4ab38996-6a19-43cb-8c2a-bbba29eaf905.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\55d189d0-d876-4eab-9afc-4083d83a4c17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\55d189d0-d876-4eab-9afc-4083d83a4c17.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\598cdd4e-0b41-4b2d-b94e-01ed552a401e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\598cdd4e-0b41-4b2d-b94e-01ed552a401e.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\672e3ea7-b708-4b23-b29f-5be1c42f7252.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\672e3ea7-b708-4b23-b29f-5be1c42f7252.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\6a50e9bf-ecd1-4401-a3ce-93c7d6e491c8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\6a50e9bf-ecd1-4401-a3ce-93c7d6e491c8.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\6b07be81-1947-4148-9b4a-d7185e893004.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\6b07be81-1947-4148-9b4a-d7185e893004.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\7ab86aff-4dea-448c-8715-7d4a73f3dd7f.png",
+      "PackagePath": "staticwebassets\\ProductImages\\7ab86aff-4dea-448c-8715-7d4a73f3dd7f.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\81e22b07-18a4-42c8-94c5-f3fa77fd10ce.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\81e22b07-18a4-42c8-94c5-f3fa77fd10ce.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\8699a5c3-d21c-4aee-adb1-01fb5191a47c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8699a5c3-d21c-4aee-adb1-01fb5191a47c.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\8760f3ab-8c1a-4abf-9c0a-f6c81542fa45.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8760f3ab-8c1a-4abf-9c0a-f6c81542fa45.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\97ca687d-3480-45f4-9364-ae3e5edd121a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\97ca687d-3480-45f4-9364-ae3e5edd121a.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\986b355a-c4f0-4d1f-9e77-85a1e4dcc466.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\986b355a-c4f0-4d1f-9e77-85a1e4dcc466.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\9cc75796-4f69-48da-9990-aa8ee9c9dcf4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9cc75796-4f69-48da-9990-aa8ee9c9dcf4.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\a619ab8a-4e4d-4c4b-888c-76962923a61e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a619ab8a-4e4d-4c4b-888c-76962923a61e.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\a7557a40-c219-4a2e-bb83-35fd4a013d67.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a7557a40-c219-4a2e-bb83-35fd4a013d67.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\a9d58f49-ba41-48f3-aeae-7e089a47495e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a9d58f49-ba41-48f3-aeae-7e089a47495e.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\b0cb0f3d-4e17-43c1-88e2-39b985923964.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b0cb0f3d-4e17-43c1-88e2-39b985923964.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\b28bc8e8-3af8-4c54-bcab-a9e814ed8686.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b28bc8e8-3af8-4c54-bcab-a9e814ed8686.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\b4292dd8-6e89-4d44-8d4e-e66443d7446b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b4292dd8-6e89-4d44-8d4e-e66443d7446b.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\b53cecaa-5a8f-480a-9c5c-d700aa7c005f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b53cecaa-5a8f-480a-9c5c-d700aa7c005f.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\c0312ed5-95f1-4fef-ae66-3a0653b606d1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c0312ed5-95f1-4fef-ae66-3a0653b606d1.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\cb639ebe-abea-4811-8746-1d3bbfbe6ba5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\cb639ebe-abea-4811-8746-1d3bbfbe6ba5.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\d604c521-880c-4106-9c25-20bb25ec927c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d604c521-880c-4106-9c25-20bb25ec927c.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\d647e97f-358c-4e39-99a3-00c11bd9be8c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d647e97f-358c-4e39-99a3-00c11bd9be8c.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\db79b5a4-fe98-4a67-ab78-3c33a216b45d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\db79b5a4-fe98-4a67-ab78-3c33a216b45d.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\e187a3b7-6678-4f6f-8fcb-0a9e94e8ef9e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e187a3b7-6678-4f6f-8fcb-0a9e94e8ef9e.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\e5856734-9b4b-42a4-b3b8-9fe56d1d0d25.png",
+      "PackagePath": "staticwebassets\\ProductImages\\e5856734-9b4b-42a4-b3b8-9fe56d1d0d25.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\e5cbee69-0d22-4913-a75a-be5e59f92e31.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e5cbee69-0d22-4913-a75a-be5e59f92e31.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\ea5c610d-3445-4bfe-9ccf-3adf036b069a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ea5c610d-3445-4bfe-9ccf-3adf036b069a.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\f02f31df-b546-42de-86d6-5610af23c4ed.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\f02f31df-b546-42de-86d6-5610af23c4ed.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\ProductImages\\f84abe5f-145f-40e1-8a56-0d671a03d7ca.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\f84abe5f-145f-40e1-8a56-0d671a03d7ca.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\4ab1b3ec-4822-411f-bd08-7edae59b8718.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\4ab1b3ec-4822-411f-bd08-7edae59b8718.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\57cbfdfa-1a23-4db3-a370-b19de3856bb6.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\57cbfdfa-1a23-4db3-a370-b19de3856bb6.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\582fa057-0393-4c7d-89b2-7bc8018cf0f8.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\582fa057-0393-4c7d-89b2-7bc8018cf0f8.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\596745f2-f658-4f4f-9326-a0da4e5a2beb.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\596745f2-f658-4f4f-9326-a0da4e5a2beb.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\62fc4d48-e268-4836-a60d-9dc7d619308b.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\62fc4d48-e268-4836-a60d-9dc7d619308b.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\be765cce-f8ca-47cd-8bf3-01a766aa9114.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\be765cce-f8ca-47cd-8bf3-01a766aa9114.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\UserProfiles\\c535421f-c4ff-42c4-a639-3ac56c6459b5.jpg",
+      "PackagePath": "staticwebassets\\UserProfiles\\c535421f-c4ff-42c4-a639-3ac56c6459b5.jpg"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\defaultPropileImg.png",
+      "PackagePath": "staticwebassets\\images\\defaultPropileImg.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\login.png",
+      "PackagePath": "staticwebassets\\images\\login.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\loginerror.png",
+      "PackagePath": "staticwebassets\\images\\loginerror.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\productCreate.png",
+      "PackagePath": "staticwebassets\\images\\productCreate.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\productdetails.png",
+      "PackagePath": "staticwebassets\\images\\productdetails.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\productedit.png",
+      "PackagePath": "staticwebassets\\images\\productedit.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\productlist.png",
+      "PackagePath": "staticwebassets\\images\\productlist.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\registererror.png",
+      "PackagePath": "staticwebassets\\images\\registererror.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\images\\updateprofile.png",
+      "PackagePath": "staticwebassets\\images\\updateprofile.png"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LTAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LTAssignment.props",
+      "PackagePath": "build\\LTAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LTAssignment.props",
+      "PackagePath": "buildMultiTargeting\\LTAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LTAssignment.props",
+      "PackagePath": "buildTransitive\\LTAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
