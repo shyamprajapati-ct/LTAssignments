@@ -3,10 +3,9 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddControllersWithViews();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-// Register the connection string for dependency injection (optional)
 builder.Services.AddSingleton(connectionString);
 builder.Services.AddScoped(typeof(Common));
 builder.Services.AddTransient(typeof(Common));
