@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\LTAssignment.csproj": {}
+    "D:\\Personal\\LTAssignment\\LTAssignment\\LTAssignment.csproj": {}
   },
   "projects": {
-    "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\LTAssignment.csproj": {
+    "D:\\Personal\\LTAssignment\\LTAssignment\\LTAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\LTAssignment.csproj",
+        "projectUniqueName": "D:\\Personal\\LTAssignment\\LTAssignment\\LTAssignment.csproj",
         "projectName": "LTAssignment",
-        "projectPath": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\LTAssignment.csproj",
+        "projectPath": "D:\\Personal\\LTAssignment\\LTAssignment\\LTAssignment.csproj",
         "packagesPath": "C:\\Users\\SHYAM123\\.nuget\\packages\\",
-        "outputPath": "D:\\LemonTechnologies\\LTAssignment\\LTAssignment\\obj\\",
+        "outputPath": "D:\\Personal\\LTAssignment\\LTAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHYAM123\\AppData\\Roaming\\NuGet\\NuGet.Config",
